@@ -6,6 +6,7 @@ require github.com/cschleiden/go-workflows v0.19.0
 
 require (
 	github.com/benbjohnson/clock v1.3.0 // indirect
+	github.com/briandowns/openweathermap v0.21.1 // indirect
 	github.com/cenkalti/backoff/v4 v4.3.0 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/dustin/go-humanize v1.0.1 // indirect
@@ -17,6 +18,7 @@ require (
 	github.com/hashicorp/errwrap v1.1.0 // indirect
 	github.com/hashicorp/go-multierror v1.1.1 // indirect
 	github.com/jellydator/ttlcache/v3 v3.0.0 // indirect
+	github.com/joho/godotenv v1.5.1
 	github.com/kballard/go-shellquote v0.0.0-20180428030007-95032a82bc51 // indirect
 	github.com/kr/pretty v0.3.1 // indirect
 	github.com/lib/pq v1.10.9 // indirect
